@@ -1,7 +1,5 @@
-# EaglercraftX-Newclient
+# PotatoCraft
 
-Eaglercraft X with new textures 
+This is a fork of EaglercraftX-Newclient
 
-first client mod
 
-dont use this!! it is outdated
